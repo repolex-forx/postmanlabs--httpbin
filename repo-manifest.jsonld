@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/postmanlabs/httpbin/commit/f8ec666b4d1b654e4ff6aedd356f510dcac09f83",
       "git:hexsha": "f8ec666b4d1b654e4ff6aedd356f510dcac09f83",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T09:03:35.481277+00:00"
     },
     {
       "@id": "https://repolex.ai/r/postmanlabs/httpbin/commit/681553d691c8808fedee723ee5482848836b62bb",
